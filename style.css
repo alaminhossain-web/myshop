@@ -91,10 +91,11 @@ body{
     border-radius: 5px;
     margin: 30px auto;
     animation-name: alamin;
-    animation-duration: 10s;
+    animation-duration: 15s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
-    animation-direction: alternate;
+    animation-delay: 2s;
+
 }
 @keyframes alamin {
     0%{
