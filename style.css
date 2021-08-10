@@ -87,11 +87,10 @@ body{
     width: 80vw;
     height: 70vh;
     position: relative;
-    /* border: 2px solid #041e42; */
     border-radius: 5px;
     margin: 30px auto;
     animation-name: alamin;
-    animation-duration: 15s;
+    animation-duration: 20s;
     animation-iteration-count: infinite;
     animation-timing-function: ease;
     animation-delay: 2s;
